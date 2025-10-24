@@ -39,30 +39,6 @@ I specialize in **Brand Identity**, **Logo Design**, and **Canva Visuals** that 
 
 ---
 
-## 🌟 Featured Projects  
-
-### 💎 **Brand Identity for StartUp X**  
-Minimal yet powerful identity system for a tech startup.  
-➡️ [View Project](#)
-
-### 🎨 **Canva Templates for Creators**  
-Designed modern, scroll-stopping Canva templates for influencers.  
-➡️ [View Project](#)
-
-### 🧠 **Logo Collection Showcase**  
-A selection of my favorite logo concepts from past projects.  
-➡️ [View Project](#)
-
----
-
-## 📬 Let's Connect  
-
-<p align="center">
-  <a href="mailto:talhanaeem@email.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://www.behance.net/yourname"><img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yourname.designs"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
