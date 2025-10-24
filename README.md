@@ -44,7 +44,7 @@ I specialize in **Brand Identity**, **Logo Design**, and **Canva Visuals** that 
 
 <p align="center">
   <em>"Design is intelligence made visible."</em><br>
-  — Alina Wheeler
+  — Talha Naeem
 </p>
 
 ---
